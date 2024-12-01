@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Yemen</Name>
+    <Population>40583164</Population>
+    <Density>77</Density>
+    <Area>527970</Area>
+    <Fertility>4,5</Fertility>
+    <Age>18</Age>
+    <Urban>33 %</Urban>
+    <Share>0,5</Share>
+</Country>

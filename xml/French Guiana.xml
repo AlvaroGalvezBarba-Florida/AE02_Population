@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>French Guiana</Name>
+    <Population>308522</Population>
+    <Density>4</Density>
+    <Area>82200</Area>
+    <Fertility>3,3</Fertility>
+    <Age>25</Age>
+    <Urban>94 %</Urban>
+    <Share>0</Share>
+</Country>

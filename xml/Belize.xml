@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Belize</Name>
+    <Population>417072</Population>
+    <Density>18</Density>
+    <Area>22810</Area>
+    <Fertility>2</Fertility>
+    <Age>26</Age>
+    <Urban>48 %</Urban>
+    <Share>0,01</Share>
+</Country>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Nauru</Name>
+    <Population>11947</Population>
+    <Density>597</Density>
+    <Area>20</Area>
+    <Fertility>3,3</Fertility>
+    <Age>20</Age>
+    <Urban>95 %</Urban>
+    <Share>0</Share>
+</Country>

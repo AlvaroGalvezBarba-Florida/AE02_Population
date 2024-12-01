@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Montserrat</Name>
+    <Population>4389</Population>
+    <Density>44</Density>
+    <Area>100</Area>
+    <Fertility>1,4</Fertility>
+    <Age>42</Age>
+    <Urban>11 %</Urban>
+    <Share>0</Share>
+</Country>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Dominican Republic</Name>
+    <Population>11427557</Population>
+    <Density>236</Density>
+    <Area>48320</Area>
+    <Fertility>2,2</Fertility>
+    <Age>28</Age>
+    <Urban>86 %</Urban>
+    <Share>0,14</Share>
+</Country>

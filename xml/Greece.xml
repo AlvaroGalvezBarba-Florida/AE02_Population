@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Greece</Name>
+    <Population>10047817</Population>
+    <Density>78</Density>
+    <Area>128900</Area>
+    <Fertility>1,3</Fertility>
+    <Age>46</Age>
+    <Urban>88 %</Urban>
+    <Share>0,12</Share>
+</Country>

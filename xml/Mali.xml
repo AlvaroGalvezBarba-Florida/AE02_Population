@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Mali</Name>
+    <Population>24478595</Population>
+    <Density>20</Density>
+    <Area>1220190</Area>
+    <Fertility>5,5</Fertility>
+    <Age>16</Age>
+    <Urban>44 %</Urban>
+    <Share>0,3</Share>
+</Country>

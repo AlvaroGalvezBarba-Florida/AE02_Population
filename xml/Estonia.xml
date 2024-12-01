@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Estonia</Name>
+    <Population>1360546</Population>
+    <Density>32</Density>
+    <Area>42390</Area>
+    <Fertility>1,4</Fertility>
+    <Age>42</Age>
+    <Urban>66 %</Urban>
+    <Share>0,02</Share>
+</Country>

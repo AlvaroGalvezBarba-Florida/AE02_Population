@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Netherlands</Name>
+    <Population>18228742</Population>
+    <Density>541</Density>
+    <Area>33720</Area>
+    <Fertility>1,4</Fertility>
+    <Age>41</Age>
+    <Urban>89 %</Urban>
+    <Share>0,22</Share>
+</Country>

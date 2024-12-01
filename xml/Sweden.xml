@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Sweden</Name>
+    <Population>10606999</Population>
+    <Density>26</Density>
+    <Area>410340</Area>
+    <Fertility>1,4</Fertility>
+    <Age>40</Age>
+    <Urban>87 %</Urban>
+    <Share>0,13</Share>
+</Country>

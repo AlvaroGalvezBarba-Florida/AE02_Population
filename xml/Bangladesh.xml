@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Bangladesh</Name>
+    <Population>173562364</Population>
+    <Density>1333</Density>
+    <Area>130170</Area>
+    <Fertility>2,1</Fertility>
+    <Age>26</Age>
+    <Urban>42 %</Urban>
+    <Share>2,13</Share>
+</Country>

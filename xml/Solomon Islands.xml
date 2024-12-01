@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Solomon Islands</Name>
+    <Population>819198</Population>
+    <Density>29</Density>
+    <Area>27990</Area>
+    <Fertility>3,5</Fertility>
+    <Age>20</Age>
+    <Urban>23 %</Urban>
+    <Share>0,01</Share>
+</Country>

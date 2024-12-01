@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>New Caledonia</Name>
+    <Population>292639</Population>
+    <Density>16</Density>
+    <Area>18280</Area>
+    <Fertility>2</Fertility>
+    <Age>34</Age>
+    <Urban>75 %</Urban>
+    <Share>0</Share>
+</Country>

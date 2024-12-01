@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Philippines</Name>
+    <Population>115843670</Population>
+    <Density>389</Density>
+    <Area>298170</Area>
+    <Fertility>1,9</Fertility>
+    <Age>26</Age>
+    <Urban>49 %</Urban>
+    <Share>1,42</Share>
+</Country>

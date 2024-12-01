@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>North Korea</Name>
+    <Population>26498823</Population>
+    <Density>220</Density>
+    <Area>120410</Area>
+    <Fertility>1,8</Fertility>
+    <Age>36</Age>
+    <Urban>63 %</Urban>
+    <Share>0,32</Share>
+</Country>

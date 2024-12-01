@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Caribbean Netherlands</Name>
+    <Population>30675</Population>
+    <Density>94</Density>
+    <Area>328</Area>
+    <Fertility>1,5</Fertility>
+    <Age>40</Age>
+    <Urban>66 %</Urban>
+    <Share>0</Share>
+</Country>

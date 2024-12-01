@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Saint Lucia</Name>
+    <Population>179744</Population>
+    <Density>295</Density>
+    <Area>610</Area>
+    <Fertility>1,4</Fertility>
+    <Age>34</Age>
+    <Urban>20 %</Urban>
+    <Share>0</Share>
+</Country>

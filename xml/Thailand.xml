@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Thailand</Name>
+    <Population>71668011</Population>
+    <Density>140</Density>
+    <Area>510890</Area>
+    <Fertility>1,2</Fertility>
+    <Age>40</Age>
+    <Urban>53 %</Urban>
+    <Share>0,88</Share>
+</Country>

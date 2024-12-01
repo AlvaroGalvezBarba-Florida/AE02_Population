@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Namibia</Name>
+    <Population>3030131</Population>
+    <Density>4</Density>
+    <Area>823290</Area>
+    <Fertility>3,2</Fertility>
+    <Age>21</Age>
+    <Urban>54 %</Urban>
+    <Share>0,04</Share>
+</Country>

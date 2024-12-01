@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Niger</Name>
+    <Population>27032412</Population>
+    <Density>21</Density>
+    <Area>1266700</Area>
+    <Fertility>5,9</Fertility>
+    <Age>15</Age>
+    <Urban>18 %</Urban>
+    <Share>0,33</Share>
+</Country>

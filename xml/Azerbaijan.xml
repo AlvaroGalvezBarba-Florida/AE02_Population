@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Azerbaijan</Name>
+    <Population>10336577</Population>
+    <Density>125</Density>
+    <Area>82658</Area>
+    <Fertility>1,7</Fertility>
+    <Age>33</Age>
+    <Urban>58 %</Urban>
+    <Share>0,13</Share>
+</Country>

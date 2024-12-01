@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Nepal</Name>
+    <Population>29651054</Population>
+    <Density>207</Density>
+    <Area>143350</Area>
+    <Fertility>2</Fertility>
+    <Age>25</Age>
+    <Urban>24 %</Urban>
+    <Share>0,36</Share>
+</Country>

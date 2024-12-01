@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Bulgaria</Name>
+    <Population>6757689</Population>
+    <Density>62</Density>
+    <Area>108560</Area>
+    <Fertility>1,7</Fertility>
+    <Age>45</Age>
+    <Urban>77 %</Urban>
+    <Share>0,08</Share>
+</Country>

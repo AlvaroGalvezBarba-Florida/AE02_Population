@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Israel</Name>
+    <Population>9387021</Population>
+    <Density>434</Density>
+    <Area>21640</Area>
+    <Fertility>2,8</Fertility>
+    <Age>29</Age>
+    <Urban>91 %</Urban>
+    <Share>0,12</Share>
+</Country>

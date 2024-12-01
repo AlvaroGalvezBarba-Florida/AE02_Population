@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Burundi</Name>
+    <Population>14047786</Population>
+    <Density>547</Density>
+    <Area>25680</Area>
+    <Fertility>4,8</Fertility>
+    <Age>16</Age>
+    <Urban>14 %</Urban>
+    <Share>0,17</Share>
+</Country>

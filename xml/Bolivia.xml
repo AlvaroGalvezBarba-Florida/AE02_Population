@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Bolivia</Name>
+    <Population>12413315</Population>
+    <Density>11</Density>
+    <Area>1083300</Area>
+    <Fertility>2,5</Fertility>
+    <Age>25</Age>
+    <Urban>70 %</Urban>
+    <Share>0,15</Share>
+</Country>

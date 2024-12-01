@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Congo</Name>
+    <Population>6332961</Population>
+    <Density>19</Density>
+    <Area>341500</Area>
+    <Fertility>4,1</Fertility>
+    <Age>18</Age>
+    <Urban>69 %</Urban>
+    <Share>0,08</Share>
+</Country>

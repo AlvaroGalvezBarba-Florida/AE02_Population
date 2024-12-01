@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Switzerland</Name>
+    <Population>8921981</Population>
+    <Density>226</Density>
+    <Area>39516</Area>
+    <Fertility>1,4</Fertility>
+    <Age>43</Age>
+    <Urban>74 %</Urban>
+    <Share>0,11</Share>
+</Country>

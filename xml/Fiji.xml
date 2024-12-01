@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Fiji</Name>
+    <Population>928784</Population>
+    <Density>51</Density>
+    <Area>18270</Area>
+    <Fertility>2,3</Fertility>
+    <Age>28</Age>
+    <Urban>60 %</Urban>
+    <Share>0,01</Share>
+</Country>

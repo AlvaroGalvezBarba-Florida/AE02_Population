@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Bermuda</Name>
+    <Population>64636</Population>
+    <Density>1293</Density>
+    <Area>50</Area>
+    <Fertility>1,4</Fertility>
+    <Age>46</Age>
+    <Urban>93 %</Urban>
+    <Share>0</Share>
+</Country>

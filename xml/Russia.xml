@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Russia</Name>
+    <Population>144820423</Population>
+    <Density>9</Density>
+    <Area>16376870</Area>
+    <Fertility>1,5</Fertility>
+    <Age>40</Age>
+    <Urban>75 %</Urban>
+    <Share>1,77</Share>
+</Country>

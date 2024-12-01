@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Rwanda</Name>
+    <Population>14256567</Population>
+    <Density>578</Density>
+    <Area>24670</Area>
+    <Fertility>3,6</Fertility>
+    <Age>20</Age>
+    <Urban>18 %</Urban>
+    <Share>0,17</Share>
+</Country>

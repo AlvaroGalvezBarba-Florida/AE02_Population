@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>North Macedonia</Name>
+    <Population>1823009</Population>
+    <Density>72</Density>
+    <Area>25220</Area>
+    <Fertility>1,5</Fertility>
+    <Age>41</Age>
+    <Urban>69 %</Urban>
+    <Share>0,02</Share>
+</Country>

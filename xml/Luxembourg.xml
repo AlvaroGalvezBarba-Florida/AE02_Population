@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Luxembourg</Name>
+    <Population>673036</Population>
+    <Density>260</Density>
+    <Area>2590</Area>
+    <Fertility>1,4</Fertility>
+    <Age>39</Age>
+    <Urban>87 %</Urban>
+    <Share>0,01</Share>
+</Country>

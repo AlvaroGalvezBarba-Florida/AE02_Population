@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Italy</Name>
+    <Population>59342867</Population>
+    <Density>202</Density>
+    <Area>294140</Area>
+    <Fertility>1,2</Fertility>
+    <Age>48</Age>
+    <Urban>72 %</Urban>
+    <Share>0,73</Share>
+</Country>

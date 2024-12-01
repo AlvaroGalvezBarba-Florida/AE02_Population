@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Nigeria</Name>
+    <Population>232679478</Population>
+    <Density>255</Density>
+    <Area>910770</Area>
+    <Fertility>4,4</Fertility>
+    <Age>18</Age>
+    <Urban>54 %</Urban>
+    <Share>2,85</Share>
+</Country>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Gibraltar</Name>
+    <Population>39329</Population>
+    <Density>3933</Density>
+    <Area>10</Area>
+    <Fertility>1,9</Fertility>
+    <Age>39</Age>
+    <Urban>90 %</Urban>
+    <Share>0</Share>
+</Country>

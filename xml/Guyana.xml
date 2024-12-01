@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Guyana</Name>
+    <Population>831087</Population>
+    <Density>4</Density>
+    <Area>196850</Area>
+    <Fertility>2,4</Fertility>
+    <Age>26</Age>
+    <Urban>27 %</Urban>
+    <Share>0,01</Share>
+</Country>

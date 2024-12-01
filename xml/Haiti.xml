@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Haiti</Name>
+    <Population>11772557</Population>
+    <Density>427</Density>
+    <Area>27560</Area>
+    <Fertility>2,6</Fertility>
+    <Age>24</Age>
+    <Urban>61 %</Urban>
+    <Share>0,14</Share>
+</Country>

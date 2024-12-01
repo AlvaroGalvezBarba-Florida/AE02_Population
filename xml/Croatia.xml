@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Croatia</Name>
+    <Population>3875325</Population>
+    <Density>69</Density>
+    <Area>55960</Area>
+    <Fertility>1,5</Fertility>
+    <Age>45</Age>
+    <Urban>61 %</Urban>
+    <Share>0,05</Share>
+</Country>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Timor-Leste</Name>
+    <Population>1400638</Population>
+    <Density>94</Density>
+    <Area>14870</Area>
+    <Fertility>2,6</Fertility>
+    <Age>21</Age>
+    <Urban>35 %</Urban>
+    <Share>0,02</Share>
+</Country>

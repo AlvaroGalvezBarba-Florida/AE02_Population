@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Indonesia</Name>
+    <Population>283487931</Population>
+    <Density>156</Density>
+    <Area>1811570</Area>
+    <Fertility>2,1</Fertility>
+    <Age>30</Age>
+    <Urban>59 %</Urban>
+    <Share>3,47</Share>
+</Country>

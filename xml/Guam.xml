@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Guam</Name>
+    <Population>167777</Population>
+    <Density>311</Density>
+    <Area>540</Area>
+    <Fertility>2,7</Fertility>
+    <Age>31</Age>
+    <Urban>99 %</Urban>
+    <Share>0</Share>
+</Country>

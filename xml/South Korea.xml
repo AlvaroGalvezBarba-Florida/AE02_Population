@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>South Korea</Name>
+    <Population>51717590</Population>
+    <Density>532</Density>
+    <Area>97230</Area>
+    <Fertility>0,7</Fertility>
+    <Age>45</Age>
+    <Urban>82 %</Urban>
+    <Share>0,63</Share>
+</Country>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Chile</Name>
+    <Population>19764771</Population>
+    <Density>27</Density>
+    <Area>743532</Area>
+    <Fertility>1,1</Fertility>
+    <Age>36</Age>
+    <Urban>85 %</Urban>
+    <Share>0,24</Share>
+</Country>

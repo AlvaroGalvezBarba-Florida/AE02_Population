@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Afghanistan</Name>
+    <Population>42647492</Population>
+    <Density>65</Density>
+    <Area>652860</Area>
+    <Fertility>4,8</Fertility>
+    <Age>17</Age>
+    <Urban>27 %</Urban>
+    <Share>0,52</Share>
+</Country>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Sudan</Name>
+    <Population>50448963</Population>
+    <Density>29</Density>
+    <Area>1765048</Area>
+    <Fertility>4,3</Fertility>
+    <Age>18</Age>
+    <Urban>35 %</Urban>
+    <Share>0,62</Share>
+</Country>

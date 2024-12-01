@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Libya</Name>
+    <Population>7381023</Population>
+    <Density>4</Density>
+    <Area>1759540</Area>
+    <Fertility>2,3</Fertility>
+    <Age>27</Age>
+    <Urban>77 %</Urban>
+    <Share>0,09</Share>
+</Country>

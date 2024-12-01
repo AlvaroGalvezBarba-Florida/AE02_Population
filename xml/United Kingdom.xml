@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>United Kingdom</Name>
+    <Population>69138192</Population>
+    <Density>286</Density>
+    <Area>241930</Area>
+    <Fertility>1,6</Fertility>
+    <Age>40</Age>
+    <Urban>84 %</Urban>
+    <Share>0,85</Share>
+</Country>

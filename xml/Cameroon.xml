@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Cameroon</Name>
+    <Population>29123744</Population>
+    <Density>62</Density>
+    <Area>472710</Area>
+    <Fertility>4,3</Fertility>
+    <Age>18</Age>
+    <Urban>59 %</Urban>
+    <Share>0,36</Share>
+</Country>

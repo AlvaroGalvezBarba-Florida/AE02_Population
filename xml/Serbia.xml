@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Serbia</Name>
+    <Population>6736216</Population>
+    <Density>77</Density>
+    <Area>87460</Area>
+    <Fertility>1,5</Fertility>
+    <Age>44</Age>
+    <Urban>73 %</Urban>
+    <Share>0,08</Share>
+</Country>

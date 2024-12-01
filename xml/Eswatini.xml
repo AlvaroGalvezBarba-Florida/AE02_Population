@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Eswatini</Name>
+    <Population>1242822</Population>
+    <Density>72</Density>
+    <Area>17200</Area>
+    <Fertility>2,7</Fertility>
+    <Age>22</Age>
+    <Urban>31 %</Urban>
+    <Share>0,02</Share>
+</Country>

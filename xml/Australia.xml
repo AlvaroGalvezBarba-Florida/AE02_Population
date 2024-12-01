@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Australia</Name>
+    <Population>26713205</Population>
+    <Density>3</Density>
+    <Area>7682300</Area>
+    <Fertility>1,6</Fertility>
+    <Age>38</Age>
+    <Urban>86 %</Urban>
+    <Share>0,33</Share>
+</Country>

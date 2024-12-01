@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Madagascar</Name>
+    <Population>31964956</Population>
+    <Density>55</Density>
+    <Area>581795</Area>
+    <Fertility>3,9</Fertility>
+    <Age>19</Age>
+    <Urban>40 %</Urban>
+    <Share>0,39</Share>
+</Country>

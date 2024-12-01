@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Belarus</Name>
+    <Population>9056696</Population>
+    <Density>45</Density>
+    <Area>202910</Area>
+    <Fertility>1,2</Fertility>
+    <Age>41</Age>
+    <Urban>84 %</Urban>
+    <Share>0,11</Share>
+</Country>

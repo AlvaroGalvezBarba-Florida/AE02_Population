@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Liechtenstein</Name>
+    <Population>39870</Population>
+    <Density>249</Density>
+    <Area>160</Area>
+    <Fertility>1,5</Fertility>
+    <Age>44</Age>
+    <Urban>15 %</Urban>
+    <Share>0</Share>
+</Country>

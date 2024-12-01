@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Uruguay</Name>
+    <Population>3386588</Population>
+    <Density>19</Density>
+    <Area>175020</Area>
+    <Fertility>1,4</Fertility>
+    <Age>36</Age>
+    <Urban>N.A.</Urban>
+    <Share>0,04</Share>
+</Country>

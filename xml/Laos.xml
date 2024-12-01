@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Laos</Name>
+    <Population>7769819</Population>
+    <Density>34</Density>
+    <Area>230800</Area>
+    <Fertility>2,4</Fertility>
+    <Age>25</Age>
+    <Urban>38 %</Urban>
+    <Share>0,1</Share>
+</Country>

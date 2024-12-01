@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Iraq</Name>
+    <Population>46042015</Population>
+    <Density>106</Density>
+    <Area>434320</Area>
+    <Fertility>3,2</Fertility>
+    <Age>21</Age>
+    <Urban>72 %</Urban>
+    <Share>0,56</Share>
+</Country>

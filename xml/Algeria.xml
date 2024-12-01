@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Algeria</Name>
+    <Population>46814308</Population>
+    <Density>20</Density>
+    <Area>2381740</Area>
+    <Fertility>2,7</Fertility>
+    <Age>28</Age>
+    <Urban>74 %</Urban>
+    <Share>0,57</Share>
+</Country>

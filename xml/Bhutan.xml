@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Bhutan</Name>
+    <Population>791524</Population>
+    <Density>21</Density>
+    <Area>38117</Area>
+    <Fertility>1,4</Fertility>
+    <Age>30</Age>
+    <Urban>49 %</Urban>
+    <Share>0,01</Share>
+</Country>

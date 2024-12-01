@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Mauritius</Name>
+    <Population>1271169</Population>
+    <Density>626</Density>
+    <Area>2030</Area>
+    <Fertility>1,2</Fertility>
+    <Age>37</Age>
+    <Urban>41 %</Urban>
+    <Share>0,02</Share>
+</Country>

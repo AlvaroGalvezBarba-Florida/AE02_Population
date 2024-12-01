@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Isle of Man</Name>
+    <Population>84160</Population>
+    <Density>148</Density>
+    <Area>570</Area>
+    <Fertility>1,5</Fertility>
+    <Age>46</Age>
+    <Urban>56 %</Urban>
+    <Share>0</Share>
+</Country>

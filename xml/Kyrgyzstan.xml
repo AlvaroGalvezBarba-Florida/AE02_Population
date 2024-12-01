@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Kyrgyzstan</Name>
+    <Population>7186009</Population>
+    <Density>37</Density>
+    <Area>191800</Area>
+    <Fertility>2,8</Fertility>
+    <Age>25</Age>
+    <Urban>35 %</Urban>
+    <Share>0,09</Share>
+</Country>

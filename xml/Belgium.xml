@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Belgium</Name>
+    <Population>11738763</Population>
+    <Density>388</Density>
+    <Area>30280</Area>
+    <Fertility>1,4</Fertility>
+    <Age>42</Age>
+    <Urban>99 %</Urban>
+    <Share>0,14</Share>
+</Country>

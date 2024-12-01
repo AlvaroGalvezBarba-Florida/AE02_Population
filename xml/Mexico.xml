@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Mexico</Name>
+    <Population>130861007</Population>
+    <Density>67</Density>
+    <Area>1943950</Area>
+    <Fertility>1,9</Fertility>
+    <Age>29</Age>
+    <Urban>87 %</Urban>
+    <Share>1,6</Share>
+</Country>

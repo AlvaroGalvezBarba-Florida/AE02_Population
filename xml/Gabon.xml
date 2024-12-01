@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Gabon</Name>
+    <Population>2538952</Population>
+    <Density>10</Density>
+    <Area>257670</Area>
+    <Fertility>3,6</Fertility>
+    <Age>22</Age>
+    <Urban>84 %</Urban>
+    <Share>0,03</Share>
+</Country>

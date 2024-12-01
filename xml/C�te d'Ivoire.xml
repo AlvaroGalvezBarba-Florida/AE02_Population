@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>C�te d'Ivoire</Name>
+    <Population>31934230</Population>
+    <Density>100</Density>
+    <Area>318000</Area>
+    <Fertility>4,2</Fertility>
+    <Age>18</Age>
+    <Urban>49 %</Urban>
+    <Share>0,39</Share>
+</Country>

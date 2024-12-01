@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Cabo Verde</Name>
+    <Population>524877</Population>
+    <Density>130</Density>
+    <Area>4030</Area>
+    <Fertility>1,5</Fertility>
+    <Age>28</Age>
+    <Urban>78 %</Urban>
+    <Share>0,01</Share>
+</Country>

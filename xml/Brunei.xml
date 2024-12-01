@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Brunei</Name>
+    <Population>462721</Population>
+    <Density>88</Density>
+    <Area>5270</Area>
+    <Fertility>1,7</Fertility>
+    <Age>32</Age>
+    <Urban>80 %</Urban>
+    <Share>0,01</Share>
+</Country>

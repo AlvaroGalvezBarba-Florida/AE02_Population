@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Uganda</Name>
+    <Population>50015092</Population>
+    <Density>250</Density>
+    <Area>199810</Area>
+    <Fertility>4,2</Fertility>
+    <Age>17</Age>
+    <Urban>29 %</Urban>
+    <Share>0,61</Share>
+</Country>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Malawi</Name>
+    <Population>21655286</Population>
+    <Density>230</Density>
+    <Area>94280</Area>
+    <Fertility>3,6</Fertility>
+    <Age>18</Age>
+    <Urban>19 %</Urban>
+    <Share>0,27</Share>
+</Country>

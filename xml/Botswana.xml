@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Botswana</Name>
+    <Population>2521139</Population>
+    <Density>4</Density>
+    <Area>566730</Area>
+    <Fertility>2,7</Fertility>
+    <Age>23</Age>
+    <Urban>75 %</Urban>
+    <Share>0,03</Share>
+</Country>

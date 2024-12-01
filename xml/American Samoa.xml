@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>American Samoa</Name>
+    <Population>46765</Population>
+    <Density>234</Density>
+    <Area>200</Area>
+    <Fertility>2,3</Fertility>
+    <Age>29</Age>
+    <Urban>N.A.</Urban>
+    <Share>0</Share>
+</Country>

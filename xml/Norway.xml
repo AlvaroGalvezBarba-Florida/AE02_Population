@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Norway</Name>
+    <Population>5576660</Population>
+    <Density>15</Density>
+    <Area>365268</Area>
+    <Fertility>1,4</Fertility>
+    <Age>40</Age>
+    <Urban>86 %</Urban>
+    <Share>0,07</Share>
+</Country>

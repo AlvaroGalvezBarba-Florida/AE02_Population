@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Monaco</Name>
+    <Population>38631</Population>
+    <Density>25927</Density>
+    <Area>1</Area>
+    <Fertility>2,1</Fertility>
+    <Age>54</Age>
+    <Urban>N.A.</Urban>
+    <Share>0</Share>
+</Country>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Malaysia</Name>
+    <Population>35557673</Population>
+    <Density>108</Density>
+    <Area>328550</Area>
+    <Fertility>1,5</Fertility>
+    <Age>31</Age>
+    <Urban>77 %</Urban>
+    <Share>0,44</Share>
+</Country>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Myanmar</Name>
+    <Population>54500091</Population>
+    <Density>83</Density>
+    <Area>653290</Area>
+    <Fertility>2,1</Fertility>
+    <Age>30</Age>
+    <Urban>34 %</Urban>
+    <Share>0,67</Share>
+</Country>

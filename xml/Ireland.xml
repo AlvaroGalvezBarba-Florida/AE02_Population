@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Ireland</Name>
+    <Population>5255017</Population>
+    <Density>76</Density>
+    <Area>68890</Area>
+    <Fertility>1,6</Fertility>
+    <Age>39</Age>
+    <Urban>62 %</Urban>
+    <Share>0,06</Share>
+</Country>

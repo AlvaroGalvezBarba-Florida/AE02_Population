@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>United States</Name>
+    <Population>345426571</Population>
+    <Density>38</Density>
+    <Area>9147420</Area>
+    <Fertility>1,6</Fertility>
+    <Age>38</Age>
+    <Urban>82 %</Urban>
+    <Share>4,23</Share>
+</Country>

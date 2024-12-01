@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Tanzania</Name>
+    <Population>68560157</Population>
+    <Density>77</Density>
+    <Area>885800</Area>
+    <Fertility>4,5</Fertility>
+    <Age>17</Age>
+    <Urban>39 %</Urban>
+    <Share>0,84</Share>
+</Country>

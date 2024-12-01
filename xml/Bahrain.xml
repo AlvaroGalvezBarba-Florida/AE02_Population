@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Bahrain</Name>
+    <Population>1607049</Population>
+    <Density>2115</Density>
+    <Area>760</Area>
+    <Fertility>1,8</Fertility>
+    <Age>33</Age>
+    <Urban>N.A.</Urban>
+    <Share>0,02</Share>
+</Country>

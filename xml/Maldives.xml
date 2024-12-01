@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Maldives</Name>
+    <Population>527799</Population>
+    <Density>1759</Density>
+    <Area>300</Area>
+    <Fertility>1,6</Fertility>
+    <Age>32</Age>
+    <Urban>39 %</Urban>
+    <Share>0,01</Share>
+</Country>

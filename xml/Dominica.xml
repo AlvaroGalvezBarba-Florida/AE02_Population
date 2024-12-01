@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Dominica</Name>
+    <Population>66205</Population>
+    <Density>88</Density>
+    <Area>750</Area>
+    <Fertility>1,5</Fertility>
+    <Age>36</Age>
+    <Urban>83 %</Urban>
+    <Share>0</Share>
+</Country>

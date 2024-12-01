@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Guatemala</Name>
+    <Population>18406359</Population>
+    <Density>172</Density>
+    <Area>107160</Area>
+    <Fertility>2,3</Fertility>
+    <Age>23</Age>
+    <Urban>56 %</Urban>
+    <Share>0,23</Share>
+</Country>

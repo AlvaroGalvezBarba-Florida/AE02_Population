@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Sri Lanka</Name>
+    <Population>23103565</Population>
+    <Density>368</Density>
+    <Area>62710</Area>
+    <Fertility>2</Fertility>
+    <Age>33</Age>
+    <Urban>18 %</Urban>
+    <Share>0,28</Share>
+</Country>

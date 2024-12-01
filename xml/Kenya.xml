@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Kenya</Name>
+    <Population>56432944</Population>
+    <Density>99</Density>
+    <Area>569140</Area>
+    <Fertility>3,2</Fertility>
+    <Age>20</Age>
+    <Urban>31 %</Urban>
+    <Share>0,69</Share>
+</Country>

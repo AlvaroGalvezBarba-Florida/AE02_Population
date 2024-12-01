@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Spain</Name>
+    <Population>47910526</Population>
+    <Density>96</Density>
+    <Area>498800</Area>
+    <Fertility>1,2</Fertility>
+    <Age>45</Age>
+    <Urban>79 %</Urban>
+    <Share>0,59</Share>
+</Country>

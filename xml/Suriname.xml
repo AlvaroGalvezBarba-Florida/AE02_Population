@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Suriname</Name>
+    <Population>634431</Population>
+    <Density>4</Density>
+    <Area>156000</Area>
+    <Fertility>2,2</Fertility>
+    <Age>28</Age>
+    <Urban>62 %</Urban>
+    <Share>0,01</Share>
+</Country>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Pakistan</Name>
+    <Population>251269164</Population>
+    <Density>326</Density>
+    <Area>770880</Area>
+    <Fertility>3,5</Fertility>
+    <Age>20</Age>
+    <Urban>34 %</Urban>
+    <Share>3,08</Share>
+</Country>

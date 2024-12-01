@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Paraguay</Name>
+    <Population>6929153</Population>
+    <Density>17</Density>
+    <Area>397300</Area>
+    <Fertility>2,4</Fertility>
+    <Age>27</Age>
+    <Urban>68 %</Urban>
+    <Share>0,08</Share>
+</Country>

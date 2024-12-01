@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Lesotho</Name>
+    <Population>2337423</Population>
+    <Density>77</Density>
+    <Area>30360</Area>
+    <Fertility>2,7</Fertility>
+    <Age>22</Age>
+    <Urban>32 %</Urban>
+    <Share>0,03</Share>
+</Country>

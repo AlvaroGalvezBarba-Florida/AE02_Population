@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>United Arab Emirates</Name>
+    <Population>11027129</Population>
+    <Density>132</Density>
+    <Area>83600</Area>
+    <Fertility>1,2</Fertility>
+    <Age>32</Age>
+    <Urban>82 %</Urban>
+    <Share>0,14</Share>
+</Country>

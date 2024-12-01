@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Syria</Name>
+    <Population>24672760</Population>
+    <Density>134</Density>
+    <Area>183630</Area>
+    <Fertility>2,7</Fertility>
+    <Age>23</Age>
+    <Urban>53 %</Urban>
+    <Share>0,3</Share>
+</Country>

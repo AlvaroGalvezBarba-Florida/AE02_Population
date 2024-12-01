@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Grenada</Name>
+    <Population>117207</Population>
+    <Density>345</Density>
+    <Area>340</Area>
+    <Fertility>1,5</Fertility>
+    <Age>34</Age>
+    <Urban>35 %</Urban>
+    <Share>0</Share>
+</Country>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Armenia</Name>
+    <Population>2973840</Population>
+    <Density>104</Density>
+    <Area>28470</Area>
+    <Fertility>1,7</Fertility>
+    <Age>36</Age>
+    <Urban>63 %</Urban>
+    <Share>0,04</Share>
+</Country>

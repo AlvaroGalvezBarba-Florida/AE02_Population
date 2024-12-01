@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Tajikistan</Name>
+    <Population>10590927</Population>
+    <Density>76</Density>
+    <Area>139960</Area>
+    <Fertility>3</Fertility>
+    <Age>22</Age>
+    <Urban>27 %</Urban>
+    <Share>0,13</Share>
+</Country>

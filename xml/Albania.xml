@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Albania</Name>
+    <Population>2791765</Population>
+    <Density>102</Density>
+    <Area>27400</Area>
+    <Fertility>1,3</Fertility>
+    <Age>37</Age>
+    <Urban>69 %</Urban>
+    <Share>0,03</Share>
+</Country>

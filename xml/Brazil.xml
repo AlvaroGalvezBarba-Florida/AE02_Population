@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Brazil</Name>
+    <Population>211998573</Population>
+    <Density>25</Density>
+    <Area>8358140</Area>
+    <Fertility>1,6</Fertility>
+    <Age>34</Age>
+    <Urban>91 %</Urban>
+    <Share>2,6</Share>
+</Country>

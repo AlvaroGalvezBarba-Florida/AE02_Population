@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Kazakhstan</Name>
+    <Population>20592571</Population>
+    <Density>8</Density>
+    <Area>2699700</Area>
+    <Fertility>3</Fertility>
+    <Age>30</Age>
+    <Urban>55 %</Urban>
+    <Share>0,25</Share>
+</Country>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Cyprus</Name>
+    <Population>1358282</Population>
+    <Density>147</Density>
+    <Area>9240</Area>
+    <Fertility>1,4</Fertility>
+    <Age>38</Age>
+    <Urban>61 %</Urban>
+    <Share>0,02</Share>
+</Country>

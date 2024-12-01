@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Iceland</Name>
+    <Population>393396</Population>
+    <Density>4</Density>
+    <Area>100250</Area>
+    <Fertility>1,5</Fertility>
+    <Age>36</Age>
+    <Urban>84 %</Urban>
+    <Share>0</Share>
+</Country>

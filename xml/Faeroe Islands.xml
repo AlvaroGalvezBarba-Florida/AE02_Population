@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Faeroe Islands</Name>
+    <Population>55400</Population>
+    <Density>40</Density>
+    <Area>1396</Area>
+    <Fertility>2,2</Fertility>
+    <Age>37</Age>
+    <Urban>40 %</Urban>
+    <Share>0</Share>
+</Country>

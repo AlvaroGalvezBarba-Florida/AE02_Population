@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Lebanon</Name>
+    <Population>5805962</Population>
+    <Density>568</Density>
+    <Area>10230</Area>
+    <Fertility>2,2</Fertility>
+    <Age>29</Age>
+    <Urban>88 %</Urban>
+    <Share>0,07</Share>
+</Country>

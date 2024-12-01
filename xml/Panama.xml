@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Panama</Name>
+    <Population>4515577</Population>
+    <Density>61</Density>
+    <Area>74340</Area>
+    <Fertility>2,1</Fertility>
+    <Age>30</Age>
+    <Urban>70 %</Urban>
+    <Share>0,06</Share>
+</Country>

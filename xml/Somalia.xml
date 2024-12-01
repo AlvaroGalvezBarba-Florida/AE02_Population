@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Somalia</Name>
+    <Population>19009151</Population>
+    <Density>30</Density>
+    <Area>627340</Area>
+    <Fertility>6</Fertility>
+    <Age>16</Age>
+    <Urban>46 %</Urban>
+    <Share>0,23</Share>
+</Country>

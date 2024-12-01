@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>South Africa</Name>
+    <Population>64007187</Population>
+    <Density>53</Density>
+    <Area>1213090</Area>
+    <Fertility>2,2</Fertility>
+    <Age>28</Age>
+    <Urban>66 %</Urban>
+    <Share>0,78</Share>
+</Country>

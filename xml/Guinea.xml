@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Guinea</Name>
+    <Population>14754785</Population>
+    <Density>60</Density>
+    <Area>245720</Area>
+    <Fertility>4,1</Fertility>
+    <Age>18</Age>
+    <Urban>40 %</Urban>
+    <Share>0,18</Share>
+</Country>

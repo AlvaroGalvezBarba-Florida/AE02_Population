@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>China</Name>
+    <Population>1419321278</Population>
+    <Density>151</Density>
+    <Area>9388211</Area>
+    <Fertility>1</Fertility>
+    <Age>40</Age>
+    <Urban>66 %</Urban>
+    <Share>17,39</Share>
+</Country>

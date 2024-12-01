@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Ukraine</Name>
+    <Population>37860221</Population>
+    <Density>65</Density>
+    <Area>579320</Area>
+    <Fertility>1</Fertility>
+    <Age>42</Age>
+    <Urban>79 %</Urban>
+    <Share>0,46</Share>
+</Country>

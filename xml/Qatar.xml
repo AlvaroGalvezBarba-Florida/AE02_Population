@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Qatar</Name>
+    <Population>3048423</Population>
+    <Density>263</Density>
+    <Area>11610</Area>
+    <Fertility>1,7</Fertility>
+    <Age>34</Age>
+    <Urban>97 %</Urban>
+    <Share>0,04</Share>
+</Country>

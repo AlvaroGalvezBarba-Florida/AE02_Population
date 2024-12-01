@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Japan</Name>
+    <Population>123753041</Population>
+    <Density>339</Density>
+    <Area>364555</Area>
+    <Fertility>1,2</Fertility>
+    <Age>49</Age>
+    <Urban>93 %</Urban>
+    <Share>1,52</Share>
+</Country>

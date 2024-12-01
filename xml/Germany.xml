@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Germany</Name>
+    <Population>84552242</Population>
+    <Density>243</Density>
+    <Area>348560</Area>
+    <Fertility>1,4</Fertility>
+    <Age>45</Age>
+    <Urban>76 %</Urban>
+    <Share>1,04</Share>
+</Country>

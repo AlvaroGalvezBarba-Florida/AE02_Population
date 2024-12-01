@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Georgia</Name>
+    <Population>3807670</Population>
+    <Density>55</Density>
+    <Area>69490</Area>
+    <Fertility>1,8</Fertility>
+    <Age>37</Age>
+    <Urban>62 %</Urban>
+    <Share>0,05</Share>
+</Country>

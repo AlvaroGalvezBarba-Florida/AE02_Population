@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Montenegro</Name>
+    <Population>638479</Population>
+    <Density>47</Density>
+    <Area>13450</Area>
+    <Fertility>1,8</Fertility>
+    <Age>40</Age>
+    <Urban>68 %</Urban>
+    <Share>0,01</Share>
+</Country>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Comoros</Name>
+    <Population>866628</Population>
+    <Density>466</Density>
+    <Area>1861</Area>
+    <Fertility>3,8</Fertility>
+    <Age>21</Age>
+    <Urban>33 %</Urban>
+    <Share>0,01</Share>
+</Country>

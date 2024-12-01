@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Romania</Name>
+    <Population>19015088</Population>
+    <Density>83</Density>
+    <Area>230170</Area>
+    <Fertility>1,7</Fertility>
+    <Age>43</Age>
+    <Urban>55 %</Urban>
+    <Share>0,23</Share>
+</Country>

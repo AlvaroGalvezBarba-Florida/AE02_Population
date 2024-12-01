@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Zambia</Name>
+    <Population>21314956</Population>
+    <Density>29</Density>
+    <Area>743390</Area>
+    <Fertility>4</Fertility>
+    <Age>18</Age>
+    <Urban>46 %</Urban>
+    <Share>0,26</Share>
+</Country>

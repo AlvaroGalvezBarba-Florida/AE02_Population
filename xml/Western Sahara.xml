@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Western Sahara</Name>
+    <Population>590506</Population>
+    <Density>2</Density>
+    <Area>266000</Area>
+    <Fertility>2,2</Fertility>
+    <Age>32</Age>
+    <Urban>97 %</Urban>
+    <Share>0,01</Share>
+</Country>

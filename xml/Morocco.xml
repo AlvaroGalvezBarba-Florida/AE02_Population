@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Morocco</Name>
+    <Population>38081173</Population>
+    <Density>85</Density>
+    <Area>446300</Area>
+    <Fertility>2,2</Fertility>
+    <Age>30</Age>
+    <Urban>67 %</Urban>
+    <Share>0,47</Share>
+</Country>

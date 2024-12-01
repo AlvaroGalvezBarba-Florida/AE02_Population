@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Chad</Name>
+    <Population>20299123</Population>
+    <Density>16</Density>
+    <Area>1259200</Area>
+    <Fertility>6</Fertility>
+    <Age>16</Age>
+    <Urban>22 %</Urban>
+    <Share>0,25</Share>
+</Country>

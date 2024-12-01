@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Vanuatu</Name>
+    <Population>327777</Population>
+    <Density>27</Density>
+    <Area>12190</Area>
+    <Fertility>3,6</Fertility>
+    <Age>20</Age>
+    <Urban>25 %</Urban>
+    <Share>0</Share>
+</Country>

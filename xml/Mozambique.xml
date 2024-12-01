@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Mozambique</Name>
+    <Population>34631766</Population>
+    <Density>44</Density>
+    <Area>786380</Area>
+    <Fertility>4,7</Fertility>
+    <Age>16</Age>
+    <Urban>41 %</Urban>
+    <Share>0,42</Share>
+</Country>

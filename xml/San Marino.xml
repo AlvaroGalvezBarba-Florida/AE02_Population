@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>San Marino</Name>
+    <Population>33581</Population>
+    <Density>560</Density>
+    <Area>60</Area>
+    <Fertility>1,2</Fertility>
+    <Age>48</Age>
+    <Urban>100 %</Urban>
+    <Share>0</Share>
+</Country>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Gambia</Name>
+    <Population>2759988</Population>
+    <Density>273</Density>
+    <Area>10120</Area>
+    <Fertility>3,9</Fertility>
+    <Age>18</Age>
+    <Urban>60 %</Urban>
+    <Share>0,03</Share>
+</Country>

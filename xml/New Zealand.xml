@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>New Zealand</Name>
+    <Population>5213944</Population>
+    <Density>20</Density>
+    <Area>263310</Area>
+    <Fertility>1,7</Fertility>
+    <Age>38</Age>
+    <Urban>83 %</Urban>
+    <Share>0,06</Share>
+</Country>

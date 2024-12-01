@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Djibouti</Name>
+    <Population>1168722</Population>
+    <Density>50</Density>
+    <Area>23180</Area>
+    <Fertility>2,6</Fertility>
+    <Age>25</Age>
+    <Urban>71 %</Urban>
+    <Share>0,01</Share>
+</Country>

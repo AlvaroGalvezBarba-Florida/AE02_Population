@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Tuvalu</Name>
+    <Population>9646</Population>
+    <Density>322</Density>
+    <Area>30</Area>
+    <Fertility>3,2</Fertility>
+    <Age>24</Age>
+    <Urban>83 %</Urban>
+    <Share>0</Share>
+</Country>

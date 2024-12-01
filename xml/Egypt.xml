@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Egypt</Name>
+    <Population>116538258</Population>
+    <Density>117</Density>
+    <Area>995450</Area>
+    <Fertility>2,7</Fertility>
+    <Age>24</Age>
+    <Urban>41 %</Urban>
+    <Share>1,43</Share>
+</Country>

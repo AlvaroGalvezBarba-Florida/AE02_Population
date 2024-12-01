@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Macao</Name>
+    <Population>720262</Population>
+    <Density>24009</Density>
+    <Area>30</Area>
+    <Fertility>0,7</Fertility>
+    <Age>39</Age>
+    <Urban>96 %</Urban>
+    <Share>0,01</Share>
+</Country>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Martinique</Name>
+    <Population>343195</Population>
+    <Density>324</Density>
+    <Area>1060</Area>
+    <Fertility>2</Fertility>
+    <Age>49</Age>
+    <Urban>N.A.</Urban>
+    <Share>0</Share>
+</Country>

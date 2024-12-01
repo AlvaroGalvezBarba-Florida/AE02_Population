@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Ethiopia</Name>
+    <Population>132059767</Population>
+    <Density>132</Density>
+    <Area>1000000</Area>
+    <Fertility>3,9</Fertility>
+    <Age>19</Age>
+    <Urban>22 %</Urban>
+    <Share>1,62</Share>
+</Country>

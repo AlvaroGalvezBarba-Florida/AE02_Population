@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Turkey</Name>
+    <Population>87473805</Population>
+    <Density>114</Density>
+    <Area>769630</Area>
+    <Fertility>1,6</Fertility>
+    <Age>33</Age>
+    <Urban>76 %</Urban>
+    <Share>1,07</Share>
+</Country>

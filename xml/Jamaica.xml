@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Jamaica</Name>
+    <Population>2839175</Population>
+    <Density>262</Density>
+    <Area>10830</Area>
+    <Fertility>1,4</Fertility>
+    <Age>32</Age>
+    <Urban>60 %</Urban>
+    <Share>0,03</Share>
+</Country>

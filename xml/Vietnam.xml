@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Vietnam</Name>
+    <Population>100987686</Population>
+    <Density>326</Density>
+    <Area>310070</Area>
+    <Fertility>1,9</Fertility>
+    <Age>33</Age>
+    <Urban>41 %</Urban>
+    <Share>1,24</Share>
+</Country>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Ecuador</Name>
+    <Population>18135478</Population>
+    <Density>73</Density>
+    <Area>248360</Area>
+    <Fertility>1,8</Fertility>
+    <Age>29</Age>
+    <Urban>65 %</Urban>
+    <Share>0,22</Share>
+</Country>

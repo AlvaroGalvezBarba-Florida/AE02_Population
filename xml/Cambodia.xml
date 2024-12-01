@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Cambodia</Name>
+    <Population>17638801</Population>
+    <Density>100</Density>
+    <Area>176520</Area>
+    <Fertility>2,5</Fertility>
+    <Age>26</Age>
+    <Urban>26 %</Urban>
+    <Share>0,22</Share>
+</Country>

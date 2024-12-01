@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Tonga</Name>
+    <Population>104175</Population>
+    <Density>145</Density>
+    <Area>720</Area>
+    <Fertility>3,1</Fertility>
+    <Age>21</Age>
+    <Urban>26 %</Urban>
+    <Share>0</Share>
+</Country>

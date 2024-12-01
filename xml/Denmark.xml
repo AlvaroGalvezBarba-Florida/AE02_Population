@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Denmark</Name>
+    <Population>5977412</Population>
+    <Density>141</Density>
+    <Area>42430</Area>
+    <Fertility>1,5</Fertility>
+    <Age>41</Age>
+    <Urban>87 %</Urban>
+    <Share>0,07</Share>
+</Country>

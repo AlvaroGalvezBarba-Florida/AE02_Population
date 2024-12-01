@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Argentina</Name>
+    <Population>45696159</Population>
+    <Density>17</Density>
+    <Area>2736690</Area>
+    <Fertility>1,5</Fertility>
+    <Age>33</Age>
+    <Urban>95 %</Urban>
+    <Share>0,56</Share>
+</Country>

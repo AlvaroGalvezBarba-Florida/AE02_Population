@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Singapore</Name>
+    <Population>5832387</Population>
+    <Density>8332</Density>
+    <Area>700</Area>
+    <Fertility>1</Fertility>
+    <Age>36</Age>
+    <Urban>N.A.</Urban>
+    <Share>0,07</Share>
+</Country>

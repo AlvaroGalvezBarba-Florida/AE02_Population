@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Slovenia</Name>
+    <Population>2118697</Population>
+    <Density>105</Density>
+    <Area>20140</Area>
+    <Fertility>1,6</Fertility>
+    <Age>44</Age>
+    <Urban>55 %</Urban>
+    <Share>0,03</Share>
+</Country>

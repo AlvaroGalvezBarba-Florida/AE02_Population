@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Trinidad and Tobago</Name>
+    <Population>1507782</Population>
+    <Density>294</Density>
+    <Area>5130</Area>
+    <Fertility>1,5</Fertility>
+    <Age>37</Age>
+    <Urban>49 %</Urban>
+    <Share>0,02</Share>
+</Country>

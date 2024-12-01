@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Hong Kong</Name>
+    <Population>7414909</Population>
+    <Density>7062</Density>
+    <Area>1050</Area>
+    <Fertility>0,7</Fertility>
+    <Age>47</Age>
+    <Urban>N.A.</Urban>
+    <Share>0,09</Share>
+</Country>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Moldova</Name>
+    <Population>3034961</Population>
+    <Density>92</Density>
+    <Area>32850</Area>
+    <Fertility>1,7</Fertility>
+    <Age>38</Age>
+    <Urban>57 %</Urban>
+    <Share>0,04</Share>
+</Country>

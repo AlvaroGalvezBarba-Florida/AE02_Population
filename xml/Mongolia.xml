@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Mongolia</Name>
+    <Population>3475540</Population>
+    <Density>2</Density>
+    <Area>1553560</Area>
+    <Fertility>2,6</Fertility>
+    <Age>27</Age>
+    <Urban>67 %</Urban>
+    <Share>0,04</Share>
+</Country>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Malta</Name>
+    <Population>539607</Population>
+    <Density>1686</Density>
+    <Area>320</Area>
+    <Fertility>1,1</Fertility>
+    <Age>41</Age>
+    <Urban>77 %</Urban>
+    <Share>0,01</Share>
+</Country>

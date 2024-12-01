@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Bahamas</Name>
+    <Population>401283</Population>
+    <Density>40</Density>
+    <Area>10010</Area>
+    <Fertility>1,4</Fertility>
+    <Age>35</Age>
+    <Urban>88 %</Urban>
+    <Share>0</Share>
+</Country>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>R�union</Name>
+    <Population>878591</Population>
+    <Density>351</Density>
+    <Area>2500</Area>
+    <Fertility>2,2</Fertility>
+    <Age>38</Age>
+    <Urban>N.A.</Urban>
+    <Share>0,01</Share>
+</Country>

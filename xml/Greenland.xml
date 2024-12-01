@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Greenland</Name>
+    <Population>55840</Population>
+    <Density>0</Density>
+    <Area>410450</Area>
+    <Fertility>1,9</Fertility>
+    <Age>35</Age>
+    <Urban>90 %</Urban>
+    <Share>0</Share>
+</Country>

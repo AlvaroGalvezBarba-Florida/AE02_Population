@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Sint Maarten</Name>
+    <Population>43350</Population>
+    <Density>1275</Density>
+    <Area>34</Area>
+    <Fertility>1,4</Fertility>
+    <Age>42</Age>
+    <Urban>100 %</Urban>
+    <Share>0</Share>
+</Country>

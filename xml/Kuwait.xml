@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Kuwait</Name>
+    <Population>4934507</Population>
+    <Density>277</Density>
+    <Area>17820</Area>
+    <Fertility>1,5</Fertility>
+    <Age>35</Age>
+    <Urban>92 %</Urban>
+    <Share>0,06</Share>
+</Country>

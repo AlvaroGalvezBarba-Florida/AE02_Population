@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Sierra Leone</Name>
+    <Population>8642022</Population>
+    <Density>120</Density>
+    <Area>72180</Area>
+    <Fertility>3,7</Fertility>
+    <Age>19</Age>
+    <Urban>45 %</Urban>
+    <Share>0,11</Share>
+</Country>

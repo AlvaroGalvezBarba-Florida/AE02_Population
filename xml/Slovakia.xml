@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Slovakia</Name>
+    <Population>5506760</Population>
+    <Density>115</Density>
+    <Area>48088</Area>
+    <Fertility>1,6</Fertility>
+    <Age>42</Age>
+    <Urban>54 %</Urban>
+    <Share>0,07</Share>
+</Country>

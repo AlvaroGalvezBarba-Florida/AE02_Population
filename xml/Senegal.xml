@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Senegal</Name>
+    <Population>18501984</Population>
+    <Density>96</Density>
+    <Area>192530</Area>
+    <Fertility>3,8</Fertility>
+    <Age>19</Age>
+    <Urban>52 %</Urban>
+    <Share>0,23</Share>
+</Country>

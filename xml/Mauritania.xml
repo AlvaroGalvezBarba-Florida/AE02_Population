@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Mauritania</Name>
+    <Population>5169395</Population>
+    <Density>5</Density>
+    <Area>1030700</Area>
+    <Fertility>4,6</Fertility>
+    <Age>17</Age>
+    <Urban>60 %</Urban>
+    <Share>0,06</Share>
+</Country>

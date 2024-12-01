@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>country</Name>
+    <Population>population</Population>
+    <Density>density</Density>
+    <Area>area</Area>
+    <Fertility>fertility</Fertility>
+    <Age>age</Age>
+    <Urban>urban</Urban>
+    <Share>share</Share>
+</Country>

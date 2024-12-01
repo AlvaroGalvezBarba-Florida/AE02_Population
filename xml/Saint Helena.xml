@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Saint Helena</Name>
+    <Population>5237</Population>
+    <Density>13</Density>
+    <Area>390</Area>
+    <Fertility>1,6</Fertility>
+    <Age>51</Age>
+    <Urban>33 %</Urban>
+    <Share>0</Share>
+</Country>

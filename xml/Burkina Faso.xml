@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Country>
+    <Name>Burkina Faso</Name>
+    <Population>23548781</Population>
+    <Density>86</Density>
+    <Area>273600</Area>
+    <Fertility>4,1</Fertility>
+    <Age>17</Age>
+    <Urban>33 %</Urban>
+    <Share>0,29</Share>
+</Country>
